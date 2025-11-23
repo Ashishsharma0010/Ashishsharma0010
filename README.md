@@ -1,55 +1,20 @@
-# Hi there, I'm Ashish Sharma 👋
+<h1 align="center">Hi 👋, I'm Ashish Sharma</h1>
+<h3 align="center">A full-stack developer from India turning caffeine into clean code and cool products ☕💻</h3>
 
-Welcome to my GitHub!  
-I'm a passionate **C++ Programmer**, **Problem Solver**, and a constant learner who loves building cool stuff and improving every day.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishsharma0010&label=Profile%20views&color=0e75b6&style=flat" alt="ashishsharma0010" /> </p>
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ashishsharma85/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ashishsharma85/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/ashish_sharma_62/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/ashish_sharma_62/" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/ashishmuq0oq/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/ashishmuq0oq/" height="30" width="40" /></a>
+</p>
 
-## 🚀 About Me
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
-- 💻 Currently exploring **Data Structures & Algorithms**
-- 🎯 Practicing consistently on **LeetCode**
-- 🌱 Learning **C++**, **OOP**, and **competitive programming concepts**
-- 🤝 Open to collaborating on **C++ projects, DSA challenges, and open-source**
-- ⚡ Fun Fact: I break problems faster than I fix my sleep schedule 😄
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashishsharma0010&show_icons=true&locale=en&layout=compact" alt="ashishsharma0010" /></p>
 
----
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashishsharma0010&show_icons=true&locale=en" alt="ashishsharma0010" /></p>
 
-## 🔗 Connect With Me
-
-- 💼 **LinkedIn:** [Your LinkedIn Link Here](https://www.linkedin.com/in/your-link/)
-- 🧩 **LeetCode:** [Your LeetCode Profile](https://leetcode.com/your-username/)
-- 📫 **Email:** your-email@example.com
-
-_(Just replace the links above with your actual ones!)_
-
----
-
-## 🛠️ Skills & Tools
-
-- **Languages:** C++, Python (Basics)
-- **Core Strengths:** DSA, Problem Solving, OOP
-- **Tools:** Git, GitHub, VS Code
-
----
-
-## 📊 My LeetCode & GitHub Journey
-
-- 🔥 Solved **XXX+ problems** on LeetCode  
-- 🧠 Rated **XXX** (update after contests!)  
-- 🟩 GitHub streaks incoming… loading… 😎
-
----
-
-## 📌 What I’m Working On
-
-- Improving **DP, Graphs & advanced DSA topics**
-- Building small projects to apply concepts
-- Preparing for **placements & coding interviews**
-
----
-
-## 🙌 Thanks for stopping by!
-
-If you like my work, consider ⭐ starring some of my repositories.  
-Let’s connect and grow together 🚀
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashishsharma0010&" alt="ashishsharma0010" /></p>
